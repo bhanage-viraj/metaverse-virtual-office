@@ -6,7 +6,7 @@ spring:
     active: dev
   data:
     mongodb:
-      uri: mongodb://localhost:27017/virtualoffice
+      uri: mongodb+srv://vsblicmdrt62_db_user:OKGUmqD0F0ruEExR@cluster0.nk8edrc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
   security:
     oauth2:
       client:
@@ -37,7 +37,7 @@ spring:
       on-profile: dev
   data:
     mongodb:
-      uri: mongodb://localhost:27017/virtualoffice_dev
+      uri: mongodb+srv://vsblicmdrt62_db_user:OKGUmqD0F0ruEExR@cluster0.nk8edrc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
 ---
 spring:
