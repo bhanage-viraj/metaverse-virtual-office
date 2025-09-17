@@ -1,12 +1,13 @@
 /Users/virajbhanage/Desktop/metaverse-virtual-office/backend/src/main/java/com/metaverse/virtualoffice/config/MongoConfig.java
+/Users/virajbhanage/Desktop/metaverse-virtual-office/backend/src/main/java/com/metaverse/virtualoffice/config/SecurityConfig.java
+/Users/virajbhanage/Desktop/metaverse-virtual-office/backend/src/main/java/com/metaverse/virtualoffice/repository/RoomRepository.java
+/Users/virajbhanage/Desktop/metaverse-virtual-office/backend/src/main/java/com/metaverse/virtualoffice/controller/UserController.java
 /Users/virajbhanage/Desktop/metaverse-virtual-office/backend/src/main/java/com/metaverse/util/CodeGenerator.java
 /Users/virajbhanage/Desktop/metaverse-virtual-office/backend/src/main/java/com/metaverse/virtualoffice/model/Room.java
 /Users/virajbhanage/Desktop/metaverse-virtual-office/backend/src/main/java/com/metaverse/virtualoffice/VirtualOfficeBackendApplication.java
 /Users/virajbhanage/Desktop/metaverse-virtual-office/backend/src/main/java/com/metaverse/virtualoffice/config/CorsConfig.java
-/Users/virajbhanage/Desktop/metaverse-virtual-office/backend/src/main/java/com/metaverse/virtualoffice/repository/RoomRepository.java
 /Users/virajbhanage/Desktop/metaverse-virtual-office/backend/src/main/java/com/metaverse/virtualoffice/repository/UserRepository.java
 /Users/virajbhanage/Desktop/metaverse-virtual-office/backend/src/main/java/com/metaverse/virtualoffice/controller/RoomController.java
 /Users/virajbhanage/Desktop/metaverse-virtual-office/backend/src/main/java/com/metaverse/virtualoffice/model/BaseEntity.java
 /Users/virajbhanage/Desktop/metaverse-virtual-office/backend/src/main/java/com/metaverse/virtualoffice/model/User.java
 /Users/virajbhanage/Desktop/metaverse-virtual-office/backend/src/main/java/com/metaverse/virtualoffice/service/UserService.java
-/Users/virajbhanage/Desktop/metaverse-virtual-office/backend/src/main/java/com/metaverse/virtualoffice/controller/UserController.java
