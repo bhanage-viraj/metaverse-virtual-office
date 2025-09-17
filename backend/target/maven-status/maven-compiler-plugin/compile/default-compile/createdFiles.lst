@@ -1,0 +1,14 @@
+com/metaverse/virtualoffice/controller/RoomController.class
+com/metaverse/virtualoffice/controller/RoomController$CreateRoomRequest.class
+com/metaverse/virtualoffice/controller/UserController.class
+com/metaverse/virtualoffice/model/Room.class
+com/metaverse/virtualoffice/service/UserService.class
+com/metaverse/util/CodeGenerator.class
+com/metaverse/virtualoffice/controller/UserController$GuestRequest.class
+com/metaverse/virtualoffice/config/CorsConfig.class
+com/metaverse/virtualoffice/VirtualOfficeBackendApplication.class
+com/metaverse/virtualoffice/repository/RoomRepository.class
+com/metaverse/virtualoffice/model/User.class
+com/metaverse/virtualoffice/repository/UserRepository.class
+com/metaverse/virtualoffice/config/MongoConfig.class
+com/metaverse/virtualoffice/model/BaseEntity.class

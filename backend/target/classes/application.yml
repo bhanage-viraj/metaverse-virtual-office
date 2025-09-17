@@ -1,0 +1,49 @@
+server:
+  port: 8080
+
+spring:
+  profiles:
+    active: dev
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/virtualoffice
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: your-github-client-id
+            client-secret: your-github-client-secret
+            scope: user:email
+        provider:
+          github:
+            authorization-uri: https://github.com/login/oauth/authorize
+            token-uri: https://github.com/login/oauth/access_token
+            user-info-uri: https://api.github.com/user
+
+app:
+  room:
+    code-length: 6
+    default-capacity: 16
+
+logging:
+  level:
+    root: INFO
+
+---
+spring:
+  config:
+    activate:
+      on-profile: dev
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/virtualoffice_dev
+
+---
+spring:
+  config:
+    activate:
+      on-profile: prod
+  data:
+    mongodb:
+      uri: ${MONGODB_URI:mongodb://localhost:27017/virtualoffice_prod}
