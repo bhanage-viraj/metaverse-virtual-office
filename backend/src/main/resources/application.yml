@@ -7,6 +7,7 @@ spring:
   data:
     mongodb:
       uri: mongodb+srv://vsblicmdrt62_db_user:OKGUmqD0F0ruEExR@cluster0.nk8edrc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      database: virtualoffice
   security:
     oauth2:
       client:
@@ -38,6 +39,7 @@ spring:
   data:
     mongodb:
       uri: mongodb+srv://vsblicmdrt62_db_user:OKGUmqD0F0ruEExR@cluster0.nk8edrc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      database: virtualoffice
 
 ---
 spring:

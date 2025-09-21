@@ -4,6 +4,7 @@ com/metaverse/virtualoffice/controller/UserController.class
 com/metaverse/virtualoffice/model/Room.class
 com/metaverse/virtualoffice/service/UserService.class
 com/metaverse/util/CodeGenerator.class
+com/metaverse/virtualoffice/config/SecurityConfig.class
 com/metaverse/virtualoffice/controller/UserController$GuestRequest.class
 com/metaverse/virtualoffice/config/CorsConfig.class
 com/metaverse/virtualoffice/VirtualOfficeBackendApplication.class
